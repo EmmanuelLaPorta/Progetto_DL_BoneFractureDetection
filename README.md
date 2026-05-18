@@ -50,7 +50,9 @@ con **CUDA 12.1** e **PyTorch 2.5.1+cu121**.
 Per ricreare l'ambiente:
 
 *python -m venv venv*
+
 *.\venv\Scripts\activate*
+
 *pip install -r requirements.txt*
 
 Il notebook *Progetto_DL_1000081957.ipynb* contiene il resto della configurazione (scaricare i dataset, creazione dei fold, ecc.)
