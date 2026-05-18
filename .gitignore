@@ -1,0 +1,13 @@
+venv/
+progetto_richiesto.pdf
+.ipynb_checkpoints/
+
+# Dataset e output dei training (rigenerabili)
+Progetto_DL_1000081957_data/
+
+# Pesi pre-trained Ultralytics (scaricati al primo run)
+*.pt
+
+# Python
+__pycache__/
+*.pyc
